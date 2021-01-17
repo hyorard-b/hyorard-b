@@ -4,7 +4,7 @@ I'm studying to be a passionate Front End Developer from Korea.
 
 - 🔭 I’m currently working on cloning [Focus To-do](https://www.focustodo.cn/)
 - 🌱 I’m currently learning Javascript
-- 📫 How to reach me: (:e-mail: e-mail)[reddream09@naver.com]
+- 📫 How to reach me: :e-mail: - reddream09@naver.com
 - 💬 Ask me about anything [here](https://github.com/hyorard-b/hyorard-b/issues)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyorard-b)](https://github.com/anuraghazra/github-readme-stats)
