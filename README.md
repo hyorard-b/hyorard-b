@@ -2,7 +2,7 @@
 
 I'm studying to be a passionate Front End Developer from Korea.
 
-- 🔭 I’m currently working on cloning [Focus To-do](https://www.focustodo.cn/)
+- 🔭 I’m currently working on cloning [simple UI](https://github.com/hyorard-b/TIL/tree/main/javaScript/simple-UI)
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me: :e-mail: - reddream09@naver.com
 - 💬 Ask me about anything [here](https://github.com/hyorard-b/hyorard-b/issues)
